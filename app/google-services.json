@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "503567741332",
+    "firebase_url": "https://b2twa-b5351.firebaseio.com",
+    "project_id": "b2twa-b5351",
+    "storage_bucket": "b2twa-b5351.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503567741332:android:777291a0685e24ad475f81",
+        "android_client_info": {
+          "package_name": "com.b2twa.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503567741332-tbf9g6sqe4aou2u2knvcquf3sn847rd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6C1I75PjMzSIgvujQ6VyOzOy20P9MU6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503567741332-tbf9g6sqe4aou2u2knvcquf3sn847rd6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
